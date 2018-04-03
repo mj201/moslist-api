@@ -1,0 +1,10 @@
+/Users/mohip/Development/moslist/moslist-api/MosListAPI.Tests/Postman/bin/Debug/netcoreapp1.1/Postman.deps.json
+/Users/mohip/Development/moslist/moslist-api/MosListAPI.Tests/Postman/bin/Debug/netcoreapp1.1/Postman.runtimeconfig.json
+/Users/mohip/Development/moslist/moslist-api/MosListAPI.Tests/Postman/bin/Debug/netcoreapp1.1/Postman.runtimeconfig.dev.json
+/Users/mohip/Development/moslist/moslist-api/MosListAPI.Tests/Postman/bin/Debug/netcoreapp1.1/Postman.dll
+/Users/mohip/Development/moslist/moslist-api/MosListAPI.Tests/Postman/bin/Debug/netcoreapp1.1/Postman.pdb
+/Users/mohip/Development/moslist/moslist-api/MosListAPI.Tests/Postman/obj/Debug/netcoreapp1.1/Postman.AssemblyInfo.cs
+/Users/mohip/Development/moslist/moslist-api/MosListAPI.Tests/Postman/obj/Debug/netcoreapp1.1/Postman.dll
+/Users/mohip/Development/moslist/moslist-api/MosListAPI.Tests/Postman/obj/Debug/netcoreapp1.1/Postman.pdb
+/Users/mohip/Development/moslist/moslist-api/MosListAPI.Tests/Postman/bin/Debug/netcoreapp1.1/MosListAPI.dll
+/Users/mohip/Development/moslist/moslist-api/MosListAPI.Tests/Postman/bin/Debug/netcoreapp1.1/MosListAPI.pdb

@@ -1,0 +1,10 @@
+/Users/mohip/Development/moslist/moslist-api/MosListAPI/bin/Debug/netcoreapp1.1/MosListAPI.deps.json
+/Users/mohip/Development/moslist/moslist-api/MosListAPI/bin/Debug/netcoreapp1.1/MosListAPI.runtimeconfig.json
+/Users/mohip/Development/moslist/moslist-api/MosListAPI/bin/Debug/netcoreapp1.1/MosListAPI.runtimeconfig.dev.json
+/Users/mohip/Development/moslist/moslist-api/MosListAPI/bin/Debug/netcoreapp1.1/MosListAPI.dll
+/Users/mohip/Development/moslist/moslist-api/MosListAPI/bin/Debug/netcoreapp1.1/MosListAPI.pdb
+/Users/mohip/Development/moslist/moslist-api/MosListAPI/obj/Debug/netcoreapp1.1/MosListAPI.AssemblyInfo.cs
+/Users/mohip/Development/moslist/moslist-api/MosListAPI/obj/Debug/netcoreapp1.1/MosListAPI.dll
+/Users/mohip/Development/moslist/moslist-api/MosListAPI/obj/Debug/netcoreapp1.1/MosListAPI.pdb
+/Users/mohip/Development/moslist/moslist-api/MosListAPI/obj/Debug/netcoreapp1.1/MosListAPi.csproj.CoreCompileInputs.cache
+/Users/mohip/Development/moslist/moslist-api/MosListAPI/obj/Debug/netcoreapp1.1/MosListAPi.AssemblyInfoInputs.cache

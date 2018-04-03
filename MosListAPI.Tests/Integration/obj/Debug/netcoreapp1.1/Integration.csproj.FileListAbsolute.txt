@@ -1,0 +1,11 @@
+/Users/mohip/Development/moslist/moslist-api/MosListAPI.Tests/Integration/bin/Debug/netcoreapp1.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/mohip/Development/moslist/moslist-api/MosListAPI.Tests/Integration/bin/Debug/netcoreapp1.1/xunit.runner.utility.netstandard15.dll
+/Users/mohip/Development/moslist/moslist-api/MosListAPI.Tests/Integration/bin/Debug/netcoreapp1.1/xunit.runner.reporters.netstandard15.dll
+/Users/mohip/Development/moslist/moslist-api/MosListAPI.Tests/Integration/bin/Debug/netcoreapp1.1/Integration.deps.json
+/Users/mohip/Development/moslist/moslist-api/MosListAPI.Tests/Integration/bin/Debug/netcoreapp1.1/Integration.runtimeconfig.json
+/Users/mohip/Development/moslist/moslist-api/MosListAPI.Tests/Integration/bin/Debug/netcoreapp1.1/Integration.runtimeconfig.dev.json
+/Users/mohip/Development/moslist/moslist-api/MosListAPI.Tests/Integration/bin/Debug/netcoreapp1.1/Integration.dll
+/Users/mohip/Development/moslist/moslist-api/MosListAPI.Tests/Integration/bin/Debug/netcoreapp1.1/Integration.pdb
+/Users/mohip/Development/moslist/moslist-api/MosListAPI.Tests/Integration/obj/Debug/netcoreapp1.1/Integration.AssemblyInfo.cs
+/Users/mohip/Development/moslist/moslist-api/MosListAPI.Tests/Integration/obj/Debug/netcoreapp1.1/Integration.dll
+/Users/mohip/Development/moslist/moslist-api/MosListAPI.Tests/Integration/obj/Debug/netcoreapp1.1/Integration.pdb
